@@ -1,0 +1,30 @@
+############### Section config ##################
+#################################################
+title = "Tech Experience"
+enabled = true # false
+
+############### Technologies ####################
+#################################################
+# Technology I have worked with
+# name = "./.../../icon_path"
+[technologies]
+c = "./config/assets/icons/c.svg"
+cpp = "./config/assets/icons/cpp.svg"
+vhdl = "./config/assets/icons/vhdl.svg"
+arduino = "./config/assets/icons/arduino.svg"
+python = "./config/assets/icons/python.svg"
+jupyter = "./config/assets/icons/jupyter.svg"
+git = "./config/assets/icons/git.svg"
+pandas = "./config/assets/icons/pandas.svg"
+html = "./config/assets/icons/html.svg"
+css = "./config/assets/icons/css.svg"
+js = "./config/assets/icons/js.svg"
+linux = "./config/assets/icons/linux.svg"
+matlab = "./config/assets/icons/matlab.svg"
+scilab = "./config/assets/icons/scilab.svg"
+# ai = "./config/assets/icons/ai.svg"
+# firebase = "./config/assets/icons/firebase.svg"
+# mongodb = "./config/assets/icons/mongodb.svg"
+# dart = "./config/assets/icons/dart.svg"
+# figma = "./config/assets/icons/figma.svg"
+# flutter = "./config/assets/icons/flutter.svg"
