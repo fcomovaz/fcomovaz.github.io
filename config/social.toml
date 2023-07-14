@@ -2,11 +2,13 @@
 # <ion-icon name="[[name]]"></ion-icon>
 # name = "https://example.com/"
 
+code-working-sharp = "https://dev.to/fcomovaz"
 # logo-facebook = "https://facebook.com/"
 logo-twitter = "https://twitter.com/fcomovaz"
 logo-instagram = "https://instagram.com/fcomovaz"
 logo-linkedin = "https://www.linkedin.com/in/fcomovaz/"
 logo-github = "https://github.com/fcomovaz"
+cloud-download = "CV_MorenoVazquez_FranciscoJavier.pdf"
 # logo-dribbble = "https://dribbble.com/"
 # logo-figma = "figma.com/"
 # logo-youtube = "https://youtube.com/"
