@@ -17,7 +17,31 @@ image = "./config/assets/projects/icapplec2023.png"
 url = "https://github.com/fcomovaz/pid-metaheuristic-optimization-icapplec2023"
 
 [[project]]
-title = "CONFERENCE - Enhancing PID Controller Performance in RLC Circuits through Metaheuristic Optimization"
-category = "Control Theory"
-image = "./config/assets/projects/icapplec2023.png"
-url = "https://github.com/fcomovaz/pid-metaheuristic-optimization-icapplec2023"
+title = "XXVIII Summer of Science UG - Image understanding using convolutional neural networks for autonomous vehicle navigation"
+category = "Computer Vision"
+image = "./config/assets/projects/verano28.jpg"
+url = "https://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/4064"
+
+[[project]]
+title = "XXVII Summer of Science UG - Implementation of an IoT control system based on Edge Computing"
+category = "Arduino/ESP32"
+image = "./config/assets/projects/verano27.png"
+url = "https://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/3588"
+
+[[project]]
+title = "XXVI Summer of Science UG - Current critical theories and proposals in the philosophy of education"
+category = "Philosophy"
+image = "./config/assets/projects/verano26.png"
+url = "https://drive.google.com/file/d/1KdVcbYghsAaBGdWBeXJPu3smDZ3Xgy4f/view?usp=sharing"
+
+[[project]]
+title = "XXV Summer of Science UG - Augmentation experience study focused on mobile robots"
+category = "Mobile Robots"
+image = "./config/assets/projects/verano25.jpg"
+url = "https://drive.google.com/file/d/1M15qLfKT6JE2fc8AvYCXXfmGgk42tmlN/view?usp=sharing"
+
+[[project]]
+title = "XXIV Summer of Science UG - Encryption through Orthogonal Polynomials"
+category = "Matlab/Octave"
+image = "./config/assets/projects/verano24.jpg"
+url = "https://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2734"
