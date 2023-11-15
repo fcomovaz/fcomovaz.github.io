@@ -1,5 +1,23 @@
 [[project]]
-title = "Cicruitikz Gallery"
+title = "Circuitikz Gallery"
 category = "LaTeX"
 image = "https://raw.githubusercontent.com/fcomovaz/circuitikz-gallery/main/img_circuits/circuitikz.png"
 url = "https://github.com/fcomovaz/circuitikz-gallery"
+
+[[project]]
+title = "CONFERENCE - Implementation of Modulator for Current Source Inverter"
+category = "FPGA"
+image = "./config/assets/projects/cienergia2023.png"
+url = "https://github.com/fcomovaz/modulator-current-inverter-cienergia2023"
+
+[[project]]
+title = "CONFERENCE - Enhancing PID Controller Performance in RLC Circuits through Metaheuristic Optimization"
+category = "Optimization"
+image = "./config/assets/projects/icapplec2023.png"
+url = "https://github.com/fcomovaz/pid-metaheuristic-optimization-icapplec2023"
+
+[[project]]
+title = "CONFERENCE - Enhancing PID Controller Performance in RLC Circuits through Metaheuristic Optimization"
+category = "Control Theory"
+image = "./config/assets/projects/icapplec2023.png"
+url = "https://github.com/fcomovaz/pid-metaheuristic-optimization-icapplec2023"
